@@ -5,4 +5,4 @@ NiceCode 课件
 
 - [2、让人又爱又恨的变量提升「JavaScript」](https://github.com/murongg/NiceCode/blob/main/让人又爱又恨的变量提升「JavaScript」.md)
 
-- [3、让人又爱又恨的变量提升「JavaScript」](https://github.com/murongg/NiceCode/blob/main/与变量提升同父异母的暂时性死区「JavaScript」.md)
+- [3、与变量提升同父异母的暂时性死区「JavaScript」](https://github.com/murongg/NiceCode/blob/main/与变量提升同父异母的暂时性死区「JavaScript」.md)
